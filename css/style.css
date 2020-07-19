@@ -1,3 +1,30 @@
 /* ==========================
 	Write your solution here!
    ========================== */
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+.main {
+  width: 900px;
+  margin: 50px auto;
+}
+
+.title,
+.meta,
+img,
+p {
+  margin-bottom: 40px;
+}
+
+.author,
+.date {
+  color: #ef5839;
+  font-weight: 900;
+}
